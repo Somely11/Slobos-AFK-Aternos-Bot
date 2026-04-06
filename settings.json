@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DLDUBSERVERofDandeli.aternos.me:14569",
+    "ip": "DLDUBSERVERofDandeli.aternos.me",
     "port":  14569,
     "version": "1.21.1",
     "try-creative": false
